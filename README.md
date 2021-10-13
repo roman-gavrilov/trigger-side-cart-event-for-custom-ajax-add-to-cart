@@ -1,5 +1,5 @@
 # trigger-side-cart-event-for-custom-ajax-add-to-cart-without-form
-Trigger side cart event for custom ajax add to cart on flex theme
+Trigger side cart event for custom ajax add to cart on shopify flex theme
 
 On Shopify flex theme, sometimes you have to make custom ajax add to cart action without form!  
 Of course, you can send product data to /cart/add.js with ajax. but In this case, theme's side cart will not work like theme action. You will see the updated mini cart after refresh the page
